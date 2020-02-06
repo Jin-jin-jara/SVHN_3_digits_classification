@@ -8,3 +8,4 @@ SVHN 3 digits classification 프로젝트에서는 간편하게 사용하던 ker
 
 SVHN 프로젝트를 위한 사전 연습으로 two_digits_with_blank_classification에서 사이킷런에서 기본적으로 제공하는 load_digits 데이터셋을 가공하여 새 데이터 셋을 만들고, CNN 모델에 학습시켜 예측해보겠습니다.
 
+<img src="http://ufldl.stanford.edu/housenumbers/examples_new.png">
