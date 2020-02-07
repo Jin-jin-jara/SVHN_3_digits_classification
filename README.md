@@ -10,4 +10,4 @@
 
 SVHN 프로젝트를 위한 사전 연습으로 <a href="https://github.com/Jin-jin-jara/Small-Project1--SVHN_3_digits_classification/blob/master/small_project1_two_digits_with_blank.ipynb>"two_digits_with_blank_classification</a>에서 사이킷런에서 기본적으로 제공하는 load_digits 데이터셋을 가공하여 새 데이터 셋을 만들고, CNN 모델에 학습시켜 예측해보겠습니다.
 
-<img src="http://ufldl.stanford.edu/housenumbers/32x32eg.png">
+<img src="http://ufldl.stanford.edu/housenumbers/32x32eg.png" align="center">
