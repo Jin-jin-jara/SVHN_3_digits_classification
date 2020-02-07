@@ -15,6 +15,8 @@ SVHN 전체 데이터셋(Full Numbers)은 너무 용량이 커 사용하기 어�
 SVHN 프로젝트를 위한 사전 연습으로 <a href="https://github.com/Jin-jin-jara/Small-Project1--SVHN_3_digits_classification/blob/master/small_project1_two_digits_with_blank.ipynb">two_digits_with_blank_classification</a>에서 사이킷런에서 기본적으로 제공하는 load_digits 데이터셋을 가공하여 새 데이터 셋을 만들고, CNN 모델에 학습시켜 예측해보겠습니다.<br>
 
 ### Conclusion
-결과가 잘 나왔습니다! 
+<a href="https://github.com/Jin-jin-jara/Small-Project1--SVHN_3_digits_classification/blob/master/small_project_SVHN_3_digits_classification.ipynb">결과</a>가 잘 나왔습니다!
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2F23hWM%2FbtqBO8BnK0I%2Fg7pyzF0UqOJM5mkroc9jvK%2Fimg.png"><br>
+
 
 
