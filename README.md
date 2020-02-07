@@ -1,4 +1,4 @@
-# Small-Project : The Street View House Number 3 digits classification<br>
+# Small Project : The Street View House Number 3 digits classification<br>
 ## recognizing digits and numbers in natural scene images
 
 ### Goal
