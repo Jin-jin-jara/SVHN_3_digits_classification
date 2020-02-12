@@ -23,7 +23,6 @@ SVHN 프로젝트를 위한 사전 연습으로 <a href="https://github.com/Jin-
 
 2. <a href="https://github.com/Jin-jin-jara/Small-Project1--SVHN_3_digits_classification/blob/master/models/SVHN(dropout%2C_batchnormalization%2C_deeper_layers).ipynb">규제를 추가한 모델</a><br>
 위의 기본 모델에 오버피팅 방지를 위해 dropout, batch normalization을 추가하고 더 깊은 CNN층을 만들었습니다. 커널의 개수도 128개로 늘리고 커널의 크기 또한 5x5로 늘렸습니다.<br>
-
 train데이터에 대한 정확도는 기본 모델과 크게 차이가 나지 않지만 test데이터에 대한 정확도가 71%에서 84%로 크게 올랐습니다. 하지만 아직도 목표치인 90%에는 도달하지 못했습니다.
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FR5Evm%2FbtqBO64GAyy%2FkFWJmKYRRZw7pkgXKYzpfK%2Fimg.png"><br>
 
